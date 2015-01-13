@@ -1,23 +1,24 @@
 ## The List: a hero's quest to learning Laravel
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+[![v1.0](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus quam, tincidunt eget neque nec, laoreet congue felis. Ut eget elementum mi. Aenean rutrum ante et arcu tincidunt aliquet. Nulla sagittis, nisl quis commodo gravida, dolor dui consectetur ex, quis feugiat justo leo eget sem.
-
-Nullam venenatis dolor metus, non euismod augue ullamcorper sit amet. Nulla a nibh ut velit tincidunt ultrices vehicula et tortor. Sed scelerisque ut tortor at ultricies.
+This is a simple application, built on Laravel that provides a backend with authentication and a RESTful api for handling resources to a random frontend (such as one built on Ember.js for example)
 
 ## Official Laravel Documentation
 
 Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
 
-### Contributing To Laravel
+### ToDo
+*Backend additions:*
+* Add Pagination
+* Add filters
+* Add sorting
+
+*Frontend*
+* Build a SPA frontend with Ember.js
 
 **All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
 
 ### License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+TheList is built on an open-sourced software and as such is licensed under the [MIT license](http://opensource.org/licenses/MIT)
