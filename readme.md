@@ -19,6 +19,11 @@ Create the database via the **init.sql** in */app/databases/init*
 2. Copy/Paste all files from `config` that you intend to modify
 3. Change the `url` and the `key` options in */app/config/local/app.php* with your own
 4. Change the database credentials in */app/config/local/database.php* with your own
+5. Add a .htaccess file in */app/* in which you define your environment variable:
+
+```
+SetEnv APPLICATION_ENV "local"
+```
 
 ## ToDo
 *Backend additions:*
