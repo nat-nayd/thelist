@@ -1,7 +1,5 @@
 ## The List: a hero's quest to learning Laravel
 
-[![v1.0](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-
 This is a simple application, built on Laravel that provides a backend with authentication and a RESTful api for handling resources to a random frontend (such as one built on Ember.js for example)
 
 ## Install
